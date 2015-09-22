@@ -1,4 +1,4 @@
-language: c
+language: scala
 
 scala:
     - 2.9.3
